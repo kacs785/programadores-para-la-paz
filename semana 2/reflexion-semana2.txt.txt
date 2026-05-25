@@ -1,0 +1,7 @@
+algo muy importante y de gran relevancia en el desarrollo es la utilización de la terminal de comandos,
+ya sea en Linux, windows o mac, por medio de la terminal nos permite controla de manera mas precisa 
+varias tareas tales como: la creación administración y flujo de documentos para los proyectos a realizar,
+también permite trabajar a con permisos de carpetas, accesos, usuarios, y controlar todo el sistema con 
+códigos estructurados definiendo que se resultado se quiere obtener con el código y la accion ingresada
+teniendo en cuenta esto y la cantidad de  posibilidades que permite la consola se torna como una 
+herramienta indispensable para cualquier programador y para cualquier equipo de desarrollo 
